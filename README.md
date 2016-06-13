@@ -1,2 +1,3 @@
 # hello-world
-My first repository.
+Hi, it's Salim. I'm 22 years old.
+I really want to join github.
